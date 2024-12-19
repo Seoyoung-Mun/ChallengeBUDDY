@@ -1,6 +1,6 @@
 # challenge_buddy
 
-Challenge witd BUDDY
+Challenge with BUDDY
 
 ## Getting Started
 
